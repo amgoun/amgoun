@@ -3,7 +3,7 @@
 👩🏻‍💻 Full-stack developer sharing about my journey and learnings in tech</br>
 🎨 Making videos about Computer Science, tech, and productivity on [Youtube](https://www.youtube.com/@amgounstudio)</br>
 🔭 Currently learning about AI tech solutions!</br>
-📫 How to reach me on [twitter / x](https://x.com/amgounstudio)
+📫 How to reach me : [twitter / x](https://x.com/amgounstudio)
 
 [![Rachid amgoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgoun&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/amgoun/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amgoun&theme=radical&hide_border=false)<br/>
