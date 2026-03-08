@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Full-stack developer sharing about my journey and learnings in tech</br>
 🎨 Making videos about Computer Science, tech, and productivity on [Youtube](https://www.youtube.com/@amgounstudio)</br>
-🔭 Currently fucus on building Saas products with AI integration !</br>
+🔭 Currently fucus on building Saas products with AI/LLM integration !</br>
 📫 How to reach me : [twitter / x](https://x.com/amgounstudio)
 
 [![Rachid amgoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgoun&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/amgoun/github-readme-stats)<br/>
